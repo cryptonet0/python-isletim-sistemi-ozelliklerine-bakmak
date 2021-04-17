@@ -1,0 +1,1 @@
+# python-isletim-sistemi-ozelliklerine-bakmak
